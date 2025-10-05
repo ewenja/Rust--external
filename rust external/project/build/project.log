@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8003: 未定義 WindowsSDKDir 屬性。找不到某些建置工具。
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  overlay.cpp
+C:\Users\USER\Desktop\rust external\imgui\imgui.h(74,10): error C1083: 無法開啟包含檔案: 'float.h': No such file or directory
+  (編譯來源檔案 'imgui/imgui.cpp')
+  
+C:\Users\USER\Desktop\rust external\imgui\imgui.h(74,10): error C1083: 無法開啟包含檔案: 'float.h': No such file or directory
+  (編譯來源檔案 'imgui/imgui_draw.cpp')
+  
+C:\Users\USER\Desktop\rust external\imgui\imgui.h(74,10): error C1083: 無法開啟包含檔案: 'float.h': No such file or directory
+  (編譯來源檔案 'imgui/imgui_impl_dx11.cpp')
+  
+C:\Users\USER\Desktop\rust external\imgui\imgui.h(74,10): error C1083: 無法開啟包含檔案: 'float.h': No such file or directory
+  (編譯來源檔案 'imgui/imgui_impl_win32.cpp')
+  
+C:\Users\USER\Desktop\rust external\imgui\imgui.h(74,10): error C1083: 無法開啟包含檔案: 'float.h': No such file or directory
+  (編譯來源檔案 'imgui/imgui_tables.cpp')
+  
+C:\Users\USER\Desktop\rust external\imgui\imgui.h(74,10): error C1083: 無法開啟包含檔案: 'float.h': No such file or directory
+  (編譯來源檔案 'imgui/imgui_widgets.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals.h(20,10): error C1083: 無法開啟包含檔案: 'crtdbg.h': No such file or directory
+  (編譯來源檔案 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals.h(20,10): error C1083: 無法開啟包含檔案: 'crtdbg.h': No such file or directory
+  (編譯來源檔案 'overlay/overlay.cpp')
+  
